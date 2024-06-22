@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+
+# Directories for temporary files
+tmp/
+temp/
+cache/
+.out/
+
+# Editor directories and files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build directories
+build/
+dist/
+coverage/
+
+# Miscellaneous
+public/system/
+public/uploads/
+public/images/
+uploads/
+
+# Ignore .env files, which usually contain sensitive information
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
